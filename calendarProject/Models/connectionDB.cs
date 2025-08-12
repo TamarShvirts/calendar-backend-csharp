@@ -15,7 +15,7 @@ namespace calendarProject.Models
         public DbSet<subjectWeek> subjectWeek { get; set; }
         public DbSet<comment> comment { get; set; }
         public DbSet<users> users { get; set; }
-
+        //public DbSet<subject> subject { get; set; }
 
     }
 }
