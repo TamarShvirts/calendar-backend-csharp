@@ -194,3 +194,4 @@ C:\Users\User\Documents\Project_Tamar\lmaanimaot\C#\calendarProject\calendarProj
 C:\Users\User\Documents\Project_Tamar\lmaanimaot\C#\calendarProject\calendarProject\obj\Debug\net6.0\calendarProject.genruntimeconfig.cache
 C:\Users\User\Documents\Project_Tamar\lmaanimaot\C#\calendarProject\calendarProject\obj\Debug\net6.0\ref\calendarProject.dll
 C:\Users\User\Documents\Project_Tamar\lmaanimaot\C#\calendarProject\calendarProject\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Documents\Project_Tamar\lmaanimaot\C#\calendarProject\calendarProject\obj\Debug\net6.0\calendarProject.sourcelink.json
